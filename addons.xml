@@ -16,7 +16,7 @@
         <platform>all</platform>
         <language>en</language>
 		<summary lang="en">Xem phim HD trên server 4share</summary>
-		<description lang="en">Add-on cho phép xem trực tiếp phim HD được lưu trữ trên dịch vụ 4share. Website: HDrepo.com</description>
+		<description lang="en">Add-on cho phép xem trực tiếp phim HD được lưu trữ trên dịch vụ 4share. Website:Hehe</description>
     </extension>
 </addon>
 <addon id="plugin.video.autostart"
