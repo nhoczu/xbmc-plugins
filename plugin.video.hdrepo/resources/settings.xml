@@ -1,0 +1,10 @@
+<settings>
+	<category label="General">
+		<setting id="library_folder" type="text" label="Library folder" default="" />
+		<setting id="search_num2" type="text" label="Search Number" default="15" />
+	</category>
+	<category label="FShare">
+		<setting id="username" type="text" label="User name" />
+		<setting id="password" type="text" option="hidden" label="Password" />
+	</category>
+</settings>
